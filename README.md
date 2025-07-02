@@ -1,5 +1,6 @@
 # IsaacSim
-   
+
+설치법      
 ```   
 mkdir ~/isaacsim   
 cd ~/Downloads   
